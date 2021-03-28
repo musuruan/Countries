@@ -79,10 +79,6 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mediaset Extra" tvg-logo="https://i.imgur.com/0T0BFRQ.png" group-title="ITALY",Mediaset Extra
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Minerva Bizzarro Movies" tvg-logo="https://i.imgur.com/GQG22im.jpg" group-title="ITALY",Minerva Bizzarro Movies
-https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Minerva Cinema Segreto" tvg-logo="https://i.imgur.com/fuvc0QF.jpg" group-title="ITALY",Minerva Cinema Segreto
-https://minerva-cinemasegreto-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MMA TV" tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="ITALY",MMA TV
 https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Mondo Kids - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/AeHlXnK.jpg" group-title="ITALY",Mondo Kids - github.com/Free-IPTV
