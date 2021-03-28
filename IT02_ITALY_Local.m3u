@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="*** ITALY LOCAL - github.com/Free-IPTV" group-title="ITALY LOCAL" tvg-logo="https://i.imgur.com/PzFJG5f.png",*** ITALY LOCAL - github.com/Free-IPTV
-https://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="12 TV Parma" tvg-logo="https://i.imgur.com/7w0xhMG.png" group-title="ITALY LOCAL",12 TV Parma
 https://meridelive01-lh.akamaihd.net/i/tvparma_1@356964/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="51 Radio TV" tvg-logo="http://i65.tinypic.com/wmf409.jpg" group-title="ITALY LOCAL",51 Radio TV
@@ -142,7 +142,7 @@ http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTC Telecalabria" tvg-logo="https://i.imgur.com/IZtIFM2.png" group-title="ITALY LOCAL",RTC Telecalabria
 https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTC Quarta Rete" tvg-logo="https://i.imgur.com/SAuAcpv.png" group-title="ITALY LOCAL",RTC Quarta Rete
-http://msh0232.stream.seeweb.it:1935/live/stream012.sdp/playlist.m3u8
+https://5c4a07a705668.streamlock.net/rtc4rete/rtc4/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTP Sicilia" tvg-logo="https://i.imgur.com/TcwZX0j.png" group-title="ITALY LOCAL",RTP Sicilia
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTTR Trento" tvg-logo="https://i.imgur.com/9houwTS.png" group-title="ITALY LOCAL",RTTR Trento
@@ -172,7 +172,7 @@ http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele Liguria Sud" tvg-logo="https://i.imgur.com/E2rWYJG.png" group-title="ITALY LOCAL",Tele Liguria Sud
 https://live.teleliguriasud.it/hls/tls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele One Palermo" tvg-logo="https://i.imgur.com/flg9vfT.png" group-title="ITALY LOCAL",Tele One Palermo
-http://live.kronopress.com:1935/mediaone_live/teleone/playlist.m3u8
+https://5cbd3bc28341f.streamlock.net:444/mediaone_live/teleone/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele Mantova" tvg-logo="https://i.imgur.com/CaVi1HX.png" group-title="ITALY LOCAL",Tele Mantova
 https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele Pegaso Catania" tvg-logo="https://i.imgur.com/alKlcEp.png" group-title="ITALY LOCAL",Tele Pegaso Catania
@@ -196,7 +196,7 @@ https://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telecupole" tvg-logo="https://i.imgur.com/CDLZZTt.jpg" group-title="ITALY LOCAL",Telecupole
 https://live.livevideosolution.it/telecupole/dd6d85e5b7452f7b85a099509292b421.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telefoggia" tvg-logo="https://i.imgur.com/ImvO2rV.png" group-title="ITALY LOCAL",Telefoggia
-http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m3u8
+https://59d8c0cee6f3d.streamlock.net/telefoggia/telefoggia/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telefriuli" tvg-logo="http://beyondprod.it/images/telefriuli_positivo.jpg" group-title="ITALY LOCAL",Telefriuli
 https://streamtechglobal.akamaized.net/hls/live/2024685/telefriuli/Group01/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TeleGenova" tvg-logo="https://i.imgur.com/CpAHeA5.jpg" group-title="ITALY LOCAL",TeleGenova
