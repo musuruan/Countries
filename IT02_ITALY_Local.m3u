@@ -149,6 +149,8 @@ https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV San Marino" tvg-logo="https://i.imgur.com/Bghsxvr.png" group-title="ITALY LOCAL",RTV San Marino
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV Sport (San Marino)" tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="ITALY",RTV Sport (San Marino)
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sardegna Uno" tvg-logo="https://i.imgur.com/aUX3yd9.png" group-title="ITALY LOCAL",Sardegna Uno
 https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPORTVL" tvg-logo="https://i.imgur.com/Ytyp6C1.png" group-title="ITALY LOCAL",SPORTVL
