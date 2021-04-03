@@ -59,12 +59,6 @@ http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Italia2Tv" tvg-logo="https://i.imgur.com/Y8stCFf.jpg" group-title="ITALY LOCAL",Italia2Tv
 http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kiss Kiss Italia TV" tvg-logo="https://i.imgur.com/k9mkIKG.jpg" group-title="ITALY LOCAL",Kiss Kiss Italia TV
-https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kiss Kiss Napoli TV" tvg-logo="https://i.imgur.com/Qawc6g8.jpg" group-title="ITALY LOCAL",Kiss Kiss Napoli TV
-https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kiss Kiss TV" tvg-logo="https://i.imgur.com/pETXOU7.jpg" group-title="ITALY LOCAL",Kiss Kiss TV
-https://58f12ffd2447a.streamlock.net/KKMulti/livestream_300p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La C TV" tvg-logo="https://i.imgur.com/123hRnI.png" group-title="ITALY LOCAL",La C TV
 http://cdn.mainstreaming.tv/live/100197/SOrBDPy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La TR3 Marsala" tvg-logo="https://i.imgur.com/IFPpG7X.png" group-title="ITALY LOCAL",La TR3 Marsala

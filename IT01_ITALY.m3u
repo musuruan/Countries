@@ -71,6 +71,12 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8
 #EXTINF:-1 tvg-name="Italia 2" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/xke4e6J.png",Italia 2
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(i2)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kiss Kiss Italia TV" tvg-logo="https://i.imgur.com/k9mkIKG.jpg" group-title="ITALY",Kiss Kiss Italia TV
+https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kiss Kiss Napoli TV" tvg-logo="https://i.imgur.com/Qawc6g8.jpg" group-title="ITALY",Kiss Kiss Napoli TV
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kiss Kiss TV" tvg-logo="https://i.imgur.com/pETXOU7.jpg" group-title="ITALY",Kiss Kiss TV
+https://58f12ffd2447a.streamlock.net/KKMulti/livestream_300p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La 5" tvg-logo="https://i.imgur.com/3mROs2T.png" group-title="ITALY",La 5
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mediaset Extra" tvg-logo="https://i.imgur.com/0T0BFRQ.png" group-title="ITALY",Mediaset Extra
