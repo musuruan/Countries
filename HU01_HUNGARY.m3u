@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="*** HUNGARY - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/l7pTHPu.png" group-title="HUNGARY",*** HUNGARY - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1Music Hungary" tvg-logo="https://i.imgur.com/6CNlnpY.jpg" group-title="HUNGARY",1Music Hungary
 http://1music.hu/1music.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV" tvg-logo="https://i.imgur.com/ovtI4G4.png" group-title="HUNGARY",ATV

@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name=vg-name="*** IRAQ - github.com/Free-IPTV" group-title="IRAQ" tvg-logo="https://i.imgur.com/PlJDyeH.png",*** IRAQ - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="*** IRAQ - github.com/Free-IPTV" group-title="IRAQ" tvg-logo="https://i.imgur.com/PlJDyeH.png",*** IRAQ - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Al-Forat" tvg-logo="https://i.imgur.com/siWfiZR.png" group-title="IRAQ",Al-Forat
 https://5e085b8c1882e.streamlock.net/live/_definst_/alforat.smil/chunklist_w812522658_b512000_slen.m3u8

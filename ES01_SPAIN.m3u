@@ -1,6 +1,10 @@
-#EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml" url-tvg="https://www.tdtchannels.com/epg/TV.xml" refresh="3600"
+#EXTM3U
 #EXTINF:-1 tvg-name="*** SPAIN - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/acuIUpD.png" group-title="SPAIN",*** SPAIN - github.com/Free-IPTV
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
+#EXTINF:-1 tvg-name="101TV Antequera" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="SPAIN",101TV Antequera
+https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u
+#EXTINF:-1 tvg-name="101TV Malaga" tvg-logo="https://i.imgur.com/CXHLhZD.png" group-title="SPAIN",101TV Malaga
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24 Horas" tvg-logo="https://i.imgur.com/XMbCrRU.png" group-title="SPAIN",24 Horas
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1 tvg-name="25 TV" tvg-id="" tvg-logo="https://i.imgur.com/sADbx7S.png" group-title="SPAIN",25 TV
@@ -21,6 +25,8 @@ http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV Andorra" tvg-logo="https://i.imgur.com/Sxv4RBq.jpg" group-title="SPAIN",ATV Andorra
 https://videos.rtva.ad/live/rtva/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Atreseries" tvg-logo="https://i.imgur.com/VP3cqKR.jpg" group-title="SPAIN",Atreserie
+https://livestartover.atresmedia.com/a3series/master.m3u8
 #EXTINF:-1 tvg-name="Bailén TV" tvg-logo="https://i.imgur.com/WM4T8ic.jpg" group-title="SPAIN",Bailén TV
 http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Beteve" tvg-logo="https://i.imgur.com/747qLjC.png" group-title="SPAIN",Beteve
@@ -31,8 +37,14 @@ https://alchimie-big-names-4-es.samsung.wurl.com/manifest/playlist.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Butaca TV" tvg-logo="https://i.imgur.com/N4rWfj2.png" group-title="SPAIN",Butaca TV
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cáceres Tevé" tvg-logo="https://i.imgur.com/9WGqTt2.png" group-title="SPAIN",Cáceres Tevé
+https://ce2019100818001.dnssw.net/hls/ceres.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cadena Elite" tvg-logo="https://i.imgur.com/eGvnKf2.png" group-title="SPAIN",Cadena Elite
+https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="Caillou" tvg-logo="https://i.imgur.com/4zJqmw6.png" group-title="SPAIN",Caillou
 https://dhx-caillou-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 10" tvg-logo="https://i.imgur.com/635ZBOj.jpg" group-title="SPAIN",Canal 10
+http://ventdelnord.tv:8080/escala/directe.m3u8
 #EXTINF:-1 tvg-name="Canal 2000 La Solana" tvg-logo="https://i.imgur.com/UtMrzma.jpg" group-title="SPAIN",Canal 2000 La Solana
 http://canal2000.berkano-systems.net/streaming/streams/canal2000-720p.m3u8
 #EXTINF:-1 tvg-name="Canal 25 Barbastro" tvg-logo="https://i.imgur.com/2BBGZ1H.png" group-title="SPAIN",Canal 25 Barbastro
@@ -43,16 +55,18 @@ https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m
 http://149.202.68.178:1935/live/peprecasens/manifest.m3u8
 #EXTINF:-1 tvg-name="Canal 4 Mancha Centro" tvg-id="" tvg-logo="https://i.imgur.com/gyGKUcL.png" group-title="SPAIN",Canal 4 Mancha Centro
 https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Tenerife" tvg-logo="https://i.imgur.com/BBY7e6s.jpg" group-title="SPAIN",Canal 4 Tenerife
+https://5940924978228.streamlock.net/Directo3/Directo3/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 56" tvg-id="" tvg-logo="https://i.imgur.com/FYIM7SD.png" group-title="SPAIN",Canal 56
 https://videos.canal56.com/directe/stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Cinesverdi" tvg-logo="https://i.imgur.com/fswztsG.png" group-title="SPAIN",Canal Cinesverdi
 https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Coín - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/BIAYhBp.jpg" group-title="SPAIN",Canal Coín - github.com/Free-IPTV
 http://stream.fion.es:1936/Canal_Coin/canalcoin.stream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Extremadura" tvg-logo="https://i.imgur.com/1KNV80C.png" group-title="SPAIN",Canal Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal Feel Good" tvg-logo="https://i.imgur.com/CmDAy6K.jpg" group-title="SPAIN",Canal Feel Good
 https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Canal Extremadura" tvg-id="" tvg-logo="https://i.imgur.com/9Q7qPSf.png" group-title="SPAIN",Canal Extremadura
-https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal Malaga" tvg-id="" tvg-logo="https://i.imgur.com/MCaturZ.png" group-title="SPAIN",Canal Malaga
 http://canalmalaga-tv-live.flumotion.com/chunks.m3u8
 #EXTINF:-1 tvg-name="Canal Parlamento" tvg-id="" tvg-logo="https://i.imgur.com/8KHnBwx.png" group-title="SPAIN",Canal Parlamento
@@ -85,12 +99,12 @@ https://congresodirecto-f.akamaihd.net/i/congreso3_1@72034/master.m3u8
 https://congresodirecto-f.akamaihd.net/i/congreso4_1@53937/master.m3u8
 #EXTINF:-1 tvg-name="Congreso de los Diputados 5" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" group-title="SPAIN",Congreso de los Diputados 5
 https://congresodirecto-f.akamaihd.net/i/congreso5_1@51923/master.m3u8
-#EXTINF:-1 tvg-name="CostadelSol TV" tvg-logo="https://i.imgur.com/KxCQ02o.png" group-title="SPAIN",CostadelSol TV
-https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
-#EXTINF:-1 tvg-name="Cáceres Tevé" tvg-logo="https://i.imgur.com/ChOjGH6.png" group-title="SPAIN",Cáceres Tevé
-https://ce2019100818001.dnssw.net/hls/ceres.m3u8
 #EXTINF:-1 tvg-name="Córdoba TV" tvg-logo="https://i.imgur.com/XwRd7Nb.png" group-title="SPAIN",Córdoba TV
 https://5b38ce71f1f00.streamlock.net/8376/8376/master.m3u8
+#EXTINF:-1 tvg-name="CostadelSol TV" tvg-logo="https://i.imgur.com/KxCQ02o.png" group-title="SPAIN",CostadelSol TV
+https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Costa Noroeste" tvg-logo="https://i.imgur.com/azGekF3.jpg" group-title="SPAIN",Costa Noroeste
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:-1 tvg-name="Diez TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/5KXkBbs.jpg" group-title="SPAIN",Diez TV - github.com/Free-IPTV
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Drama" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="SPAIN",Drama
@@ -109,7 +123,7 @@ https://streaming.elche7tv.es/hls/canal2.m3u8
 https://59c8647978660.streamlock.net/directo_7/directo_7/playlist.m3u8
 #EXTINF:-1 tvg-name="Estepona TV" tvg-id="" tvg-logo="https://i.imgur.com/rMAB720.png" group-title="SPAIN",Estepona TV
 https://5b38ce71f1f00.streamlock.net/8122/8122/chunklist_w310432579.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Esport 3" tvg-logo="http://cdn.teleon.tv/logo/es-esport-3.jpg" group-title="SPAIN",Esport 3
+#EXTINF:-1 tvg-id="" tvg-name="Esport 3" tvg-logo="https://i.imgur.com/Zum8zuF.jpg" group-title="SPAIN",Esport 3
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="SPAIN",Euronews
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -179,8 +193,8 @@ https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8
 http://amaru.dyndns.org:8835/0.m3u8
 #EXTINF:-1 tvg-name="Oizmendi Telebista" tvg-logo="https://i.imgur.com/gwaN0d7.png" group-title="SPAIN",Oizmendi Telebista
 https://5940924978228.streamlock.net/8161/8161/master.m3u8
-#EXTINF:-1 tvg-name="Onda Madrid (Webradio)" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/OndaMadrid.svg/1280px-OndaMadrid.svg.png" group-title="SPAIN",Onda Madrid (Webradio)
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/tvradio/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Onda Cadiz TV" tvg-logo="https://i.imgur.com/B64Y5AT.png" group-title="SPAIN",Onda Cadiz TV
+https://adc-hls.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-name="Onda Valencia" tvg-logo="https://i.imgur.com/2Cwt1MG.png" group-title="SPAIN",Onda Valencia
 https://streaming-audio-1.magentalabs.es:19360/ondavalencia/ondavalencia.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="People are Awesome" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="SPAIN",People are Awesome
@@ -195,6 +209,8 @@ https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8
 https://5940924978228.streamlock.net/8009/8009/master.m3u8
 #EXTINF:-1 tvg-name="Punt 3 Vall Uixó" tvg-logo="https://i.imgur.com/BDCeJqJ.jpg" group-title="SPAIN",Punt 3 Vall Uixó
 https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio 3 (Webradio)" tvg-logo="https://i.imgur.com/q7lpl5Z.jpg" group-title="SPAIN",Radio 3 (Webradio)
+https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c201_lv3_aosv4_gl0/rne_c201_lv3_aosv4_gl0.isml/rne_c201_lv3_aosv4_gl0.m3u8
 #EXTINF:-1 tvg-name="RT Spain" tvg-logo="https://i.imgur.com/IVKcVbs.png" group-title="SPAIN",RT Spain
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 #EXTINF:-1 tvg-name="RTVCE" tvg-logo="https://i.imgur.com/lOkvaS2.jpg" group-title="SPAIN",RTVCE
@@ -251,7 +267,7 @@ http://teledifusion.tv:1935/cordoba/cordobalive/.m3u8
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="tvA" tvg-id="" tvg-logo="https://i.imgur.com/BuqsgOD.png" group-title="SPAIN",tvA
 https://streaming01.gestec-video.com/hls/artequatreTVA.m3u8
-#EXTINF:-1 tvg-name="TVE Canal24" tvg-logo="https://i.imgur.com/g6WWN4g.png" group-title="SPAIN", TVE Canal24
+#EXTINF:-1 tvg-name="TVE Canal24" tvg-logo="https://i.imgur.com/g6WWN4g.png" group-title="SPAIN",TVE Canal24
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 #EXTINF:-1 tvg-name="TVE Canarias" tvg-logo="https://i.imgur.com/3GjLKeu.jpg" group-title="SPAIN",TVE Canarias
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@303292/master.m3u8
@@ -273,6 +289,8 @@ http://momentog-crtvg.flumotion.com/playlist.m3u8
 http://musigal-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-name="Une Vinalopó" tvg-logo="https://i.imgur.com/bucFtkN.png" group-title="SPAIN",Une Vinalopó
 http://78.41.83.88:8880/hls/unesd.m3u8
+#EXTINF:-1 tvg-name="UD Las Palmas TV" tvg-id="" tvg-logo="https://i.imgur.com/tCddWzO.jpg" group-title="SPAIN",UD Las Palmas TV
+https://cdn041.fractalmedia.es/stream/live/udtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Unearth" tvg-logo="https://i.imgur.com/bMqTNs1.jpg" group-title="SPAIN",Unearth
 https://alchimie-unearth-3-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Urban Revolution" tvg-logo="https://i.imgur.com/cgL1Y50.png" group-title="SPAIN",Urban Revolution

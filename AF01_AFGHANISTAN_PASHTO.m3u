@@ -5,11 +5,11 @@ https://
 http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
 #EXTINF:-1 tvg-name="Ariana Afghan" tvg-logo="https://i.imgur.com/N8dPVxT.jpg" group-title="AFGHANISTAN",Ariana Afghan
 http://iptv.arianaafgtv.com/ariana/playlist.m3u8
-#EXTINF:-1 tvg-name="ATN Europe" tvg-logo="https://i.imgur.com/m6tBPia.png",group-title="AFGHANISTAN",ATN Europe
+#EXTINF:-1 tvg-name="ATN Europe" tvg-logo="https://i.imgur.com/m6tBPia.png" group-title="AFGHANISTAN",ATN Europe
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="ATN National" tvg-logo="https://i.imgur.com/m6tBPia.png",group-title="AFGHANISTAN",ATN National
+#EXTINF:-1 tvg-name="ATN National" tvg-logo="https://i.imgur.com/m6tBPia.png" group-title="AFGHANISTAN",ATN National
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://i.imgur.com/dXoJANu.png",group-title="AFGHANISTAN",ATN News
+#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://i.imgur.com/dXoJANu.png" group-title="AFGHANISTAN",ATN News
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name="ATN USA" tvg-logo="https://i.imgur.com/m6tBPia.png" group-title="AFGHANISTAN",ATN USA
 https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8

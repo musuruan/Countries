@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="*** CHINA - github.com/Free-IPTV" group-title="CHINA" tvg-logo="https://i.imgur.com/6mKCDf1.png",*** CHINA - github.com/Free-IPTV
-http://
+https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Aniu TV" tvg-logo="https://i.imgur.com/N8YdX6W.png" group-title="CHINA",Aniu TV
 http://cclive.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bao Ying" tvg-logo="https://i.imgur.com/tbtETGU.jpg" group-title="CHINA",Bao Ying
 http://jsby.chinashadt.com:2035/live/by2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4.jpg" group-title="CHINA",CCTV-4
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4" tvg-logo="https://i.imgur.com/ATcQK7P.jpg" group-title="CHINA",CCTV-4
 https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGNTV" tvg-logo="https://i.imgur.com/24tnG8d.png" group-title="CHINA",CGNTV
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
@@ -47,7 +47,7 @@ http://stream.smntv.cn/smtv2/sd/live.m3u8
 http://hnsd.chinashadt.com:2036/live/stream:shaodong.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sichuan Movie Channel" tvg-logo="https://i.imgur.com/3ZcRy1Q.png" group-title="CHINA",Sichuan Movie Channel
 http://live.sichuanmianning.com/live/xwpd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CHINA",TDM Macau" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="CHINA",TDM Macau
+#EXTINF:-1 tvg-id="" tvg-name="TDM Macau" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="CHINA",TDM Macau
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TDM Sports Macau" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="CHINA",TDM Sports Macau
 http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8

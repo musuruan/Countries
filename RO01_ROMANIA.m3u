@@ -41,8 +41,12 @@ https://netstreaming.eu:8080/hls/InfoHd.m3u8
 http://46.4.14.12:9999/intermedia1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MwADEV2.png" group-title="ROMANIA",Kapital TV
 http://84.247.79.238:1935/kapital/kapital/kapital.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kiss TV" tvg-logo="https://i.imgur.com/hrkcp2o.png" group-title="ROMANIA",Kiss TV
+https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lira TV" tvg-logo="https://i.imgur.com/sC9ELuY.jpg" group-title="ROMANIA",Lira TV
 https://5d79ae45bc63b.streamlock.net/Liratv/Liratv/chunklist_w98704019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Magic TV Romania" tvg-logo="https://i.imgur.com/6aqmUqM.png" group-title="ROMANIA",Magic TV Romania
+https://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g46c2Ht.png" group-title="ROMANIA",Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nasul TV" tvg-logo="https://i.imgur.com/LJTcfxk.png" group-title="ROMANIA",Nasul TV
