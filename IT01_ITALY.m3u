@@ -5,6 +5,8 @@ https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="ITALY",Action Movies
 https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alma Tv" tvg-logo="" group-title="ITALY",Alma Tv
+https://5f11919dca3bd.streamlock.net/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Amuse Animation" tvg-logo="https://i.imgur.com/H7GtB0T.jpg" group-title="ITALY",Amuse Animation
 https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Atres Series" tvg-logo="https://i.imgur.com/g5iBSq4.png" group-title="ITALY",Atres Series
