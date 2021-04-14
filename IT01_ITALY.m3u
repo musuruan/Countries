@@ -107,6 +107,8 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="People are Awesome" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="ITALY",People are Awesome
 https://jukin-peopleareawesome-2-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="QVC" tvg-logo="" group-title="ITALY",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="R101 TV" tvg-logo="https://i.imgur.com/zcipWuk.png" group-title="ITALY",R101 TV
 https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(er)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio 105 TV" tvg-logo="https://i.imgur.com/rB1evC5.jpg" group-title="ITALY",Radio 105 TV
