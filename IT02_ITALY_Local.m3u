@@ -9,6 +9,16 @@ http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AltoAdige TV" tvg-logo="https://i.imgur.com/8SMHZls.png" group-title="ITALY LOCAL",AltoAdige TV
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antenna Sud 13" tvg-logo="" group-title="ITALY LOCAL",Antenna Sud 13
+https://streamlive13.arcapuglia.it:8080/live/antennasud/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antenna Sud 85" tvg-logo="" group-title="ITALY LOCAL",Antenna Sud 85
+https://streamlive85.arcapuglia.it:8080/live/canale85/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antenna Sud 90" tvg-logo="" group-title="ITALY LOCAL",Antenna Sud 90
+https://streamlivesud.arcapuglia.it:8080/live/teleonda/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antenna Sud 174 Eventi" tvg-logo="" group-title="ITALY LOCAL",Antenna Sud 174 Eventi
+https://streamlivesud.arcapuglia.it:8080/live/eventi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Antenna Sud 299 Cult" tvg-logo="" group-title="ITALY LOCAL",Antenna Sud 299 Cult
+https://streamlivesud.arcapuglia.it:8080/live/cult/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Antenna Tre Veneto" tvg-logo="https://i.imgur.com/O3ZCHbt.jpg" group-title="ITALY LOCAL",Antenna Tre Veneto
 https://59d8c0cee6f3d.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Arte Network" tvg-logo="https://i.imgur.com/DuTqycJ.png" group-title="ITALY LOCAL",Arte Network
