@@ -67,6 +67,8 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
 https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Giallo" tvg-logo="https://i.imgur.com/Zs8LcoY.png" group-title="ITALY",Giallo
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Giornale Radio Tv" tvg-logo="" group-title="ITALY",Giornale Radio Tv
+https://5db313b643fd8.streamlock.net:443/GiornaleRadioTelevision/GiornaleRadioTelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HGTV Italia" tvg-logo="https://i.imgur.com/9l2UAmK.jpg" group-title="ITALY",HGTV Italia
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Humanity" tvg-logo="https://i.imgur.com/DFjN26b.jpg" group-title="ITALY",Humanity
