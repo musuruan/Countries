@@ -141,10 +141,42 @@ https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
 http://api.new.livestream.com/accounts/11463451/events/3679884/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Zeta TV" tvg-logo="https://i.imgur.com/bbz9cP1.png" group-title="ITALY",Radio Zeta TV
 https://rtl-video3-stream.thron.com/live-video/video3/ngrp:video3/playlist.m3u8
-#EXTINF:-1 tvg-name="RAI News 24" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/9XMVvZ4.jpg",RAI News 24
-http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" group-title="ITALY",Rai Sport
-https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rai 1" tvg-logo="" group-title="ITALY",Rai 1
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=23
+#EXTINF:-1 tvg-id="" tvg-name="Rai 2" tvg-logo="" group-title="ITALY",Rai 2
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=23
+#EXTINF:-1 tvg-id="" tvg-name="Rai 3" tvg-logo="" group-title="ITALY",Rai 3
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=23
+#EXTINF:-1 tvg-id="" tvg-name="Rai 4" tvg-logo="" group-title="ITALY",Rai 4
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=23
+#EXTINF:-1 tvg-id="" tvg-name="Rai 5" tvg-logo="" group-title="ITALY",Rai 5
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=23
+#EXTINF:-1 tvg-id="" tvg-name="Rai Gulp" tvg-logo="" group-title="ITALY",Rai Gulp
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=23
+#EXTINF:-1 tvg-id="" tvg-name="Rai YoYo" tvg-logo="" group-title="ITALY",Rai Yoyo
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=23
+#EXTINF:-1 tvg-id="" tvg-name="Rai Movie" tvg-logo="" group-title="ITALY",Rai Movie
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=23
+#EXTINF:-1 tvg-id="" tvg-name="Rai News 24" tvg-logo="" group-title="ITALY",Rai News 24
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=23
+#EXTINF:-1 tvg-id="" tvg-name="Rai Premium" tvg-logo="" group-title="ITALY",Rai Premium
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=23
+#EXTINF:-1 tvg-id="" tvg-name="Rai Radio 2" tvg-logo="" group-title="ITALY",Rai Radio 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=23
+#EXTINF:-1 tvg-id="" tvg-name="Rai Scuola" tvg-logo="" group-title="ITALY",Rai Scuola
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=23
+#EXTINF:-1 tvg-id="" tvg-name="Rai Sport" tvg-logo="" group-title="ITALY",Rai Sport
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071&output=23
+#EXTINF:-1 tvg-id="" tvg-name="Rai Sport+" tvg-logo="" group-title="ITALY",Rai Sport+
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=23
+#EXTINF:-1 tvg-id="" tvg-name="Rai Sport Web 1" tvg-logo="" group-title="ITALY",Rai Sport Web 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=22590&output=23
+#EXTINF:-1 tvg-id="" tvg-name="Rai Sport Web 2" tvg-logo="" group-title="ITALY",Rai Sport Web 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=35259&output=23
+#EXTINF:-1 tvg-id="" tvg-name="Rai Sport Web 3" tvg-logo="" group-title="ITALY",Rai Sport Web 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=35263&output=23
+#EXTINF:-1 tvg-id="" tvg-name="Rai Storia" tvg-logo="" group-title="ITALY",Rai Storia
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=23
 #EXTINF:-1 tvg-id="" tvg-name="RDS Social TV" tvg-logo="https://i.imgur.com/LDcsCZC.png" group-title="ITALY",RDS Social TV
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Real Time" tvg-logo="https://i.imgur.com/FvTKb8v.png" group-title="ITALY",Real Time
