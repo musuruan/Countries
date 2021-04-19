@@ -98,7 +98,7 @@ https://meridelive-lh.akamaihd.net/i/ottop_1@118465/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Orler TV Favaro Veneto" tvg-logo="https://i.imgur.com/Ia7iULa.png" group-title="ITALY LOCAL",Orler TV Favaro Veneto
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Otto FM TV" tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="ITALY LOCAL",Otto FM TV
-http://streaming.bitonlive.net:8080/hls/ottofmtv/index.m3u8
+http://streaming.bitonlive.net:8080/hls/ottofm2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ParadiseTV" tvg-logo="" group-title="ITALY LOCAL",ParadiseTV
 https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="paroledivita.org" tvg-logo="" group-title="ITALY LOCAL",paroledivita.org
