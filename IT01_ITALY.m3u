@@ -21,6 +21,8 @@ https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Brindiamo Channel" tvg-logo="https://i.imgur.com/9eJ3dVa.jpg" group-title="ITALY",Brindiamo Channel
 https://okproductions-brindiamochannel-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BFC" tvg-logo="" group-title="ITALY",BFC
+https://backup.superstreaming.inaria.me/BFC/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canale 5" tvg-logo="https://i.imgur.com/7RRCRh3.png" group-title="ITALY",Canale 5
 https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Camera dei Deputati (via RR)" tvg-logo="https://i.imgur.com/43mtXMt.png" group-title="ITALY",Camera dei Deputati (via RR)

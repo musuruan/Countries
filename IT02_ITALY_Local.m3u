@@ -207,6 +207,8 @@ https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlis
 https://5f11919dca3bd.streamlock.net/t9/t9/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele Abruzzo" tvg-logo="https://i.imgur.com/XymK2PR.png" group-title="ITALY LOCAL",Tele Abruzzo
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tele Clusone" tvg-logo="" group-title="ITALY LOCAL",Tele Clusone
+https://video1.getstreamhosting.com:1936/8124/8124/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele Liguria Sud" tvg-logo="https://i.imgur.com/E2rWYJG.png" group-title="ITALY LOCAL",Tele Liguria Sud
 https://live.teleliguriasud.it/hls/tls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tele One Palermo" tvg-logo="https://i.imgur.com/flg9vfT.png" group-title="ITALY LOCAL",Tele One Palermo
@@ -269,6 +271,8 @@ https://live.mariatvcdn.com/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/
 https://live.mariatvcdn.com/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telepace 4" tvg-logo="" group-title="ITALY LOCAL",Telepace 4
 https://live.mariatvcdn.com/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telepace Roma" tvg-logo="" group-title="ITALY LOCAL",Telepace Roma
+https://live.mariatvcdn.com/mariatvpoint/d36592901d5429dd7f9ec1e7bbeda8c2.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TelePadrePio" tvg-logo="" group-title="ITALY LOCAL",TelePadrePio
 https://padrepio-stream.summview.com/live/index-live-12-0-0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TeleQuattro" tvg-logo="https://i.imgur.com/qb7TwFO.png" group-title="ITALY LOCAL",TeleQuattro
