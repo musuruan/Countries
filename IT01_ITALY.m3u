@@ -3,23 +3,25 @@
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="20 Mediaset" tvg-logo="https://i.imgur.com/8SoOefS.png" group-title="ITALY",20 Mediaset
 https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(lb)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Action Movies" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="ITALY",Action Movies
+#EXTINF:-1 tvg-id="" tvg-name="Film d'azione - Rakuten TV" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="ITALY",Film d'azione - Rakuten TV
 https://rakuten-actionmovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Alma Tv" tvg-logo="" group-title="ITALY",Alma Tv
 https://5f11919dca3bd.streamlock.net/AlmaTv/AlmaTv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A3series" tvg-logo="https://i.imgur.com/g5iBSq4.png" group-title="ITALY",A3series
+https://atresmedia-atreseries-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Amuse Animation" tvg-logo="https://i.imgur.com/H7GtB0T.jpg" group-title="ITALY",Amuse Animation
 https://amuse-amuseanimation-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Atres Series" tvg-logo="https://i.imgur.com/g5iBSq4.png" group-title="ITALY",Atres Series
-https://atresmedia-atreseries-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Big Name" tvg-logo="https://i.imgur.com/hChduSn.png" group-title="ITALY",Big Name
 https://alchimie-big-names-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bike HD" tvg-logo="https://i.imgur.com/wZh7aI8.png" group-title="ITALY",Bike HD
 https://backup.superstreaming.inaria.me/BikeSmartMobilityDTT/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bizzarro Movies" tvg-logo="https://i.imgur.com/GQG22im.jpg" group-title="ITALY",Bizzarro Movies
+https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/AMGo8sU.png" group-title="ITALY",Bloomberg
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boing Italia" tvg-logo="https://i.imgur.com/AcSRwuN.png" group-title="ITALY",Boing Italia
 https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(kb)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Brindiamo Channel" tvg-logo="https://i.imgur.com/9eJ3dVa.jpg" group-title="ITALY",Brindiamo Channel
+#EXTINF:-1 tvg-id="" tvg-name="Brindiamo!" tvg-logo="https://i.imgur.com/9eJ3dVa.jpg" group-title="ITALY",Brindiamo!
 https://okproductions-brindiamochannel-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BFC" tvg-logo="" group-title="ITALY",BFC
 https://backup.superstreaming.inaria.me/BFC/index.m3u8
@@ -31,15 +33,17 @@ https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 http://ovp-live.akamaized.net/ac024_live/video1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/3lNJJ67.png" group-title="ITALY",Cartoonito
 https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CG Entertainment" tvg-logo="" group-title="ITALY",CG Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="CGtv" tvg-logo="" group-title="ITALY",CGtv
 https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine 34" tvg-logo="https://i.imgur.com/cOpASOB.png" group-title="ITALY",Cine 34
 https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Segreto" tvg-logo="https://i.imgur.com/fuvc0QF.jpg" group-title="ITALY",Cinema Segreto
+https://minerva-cinemasegreto-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Class CNBC" tvg-logo="https://i.imgur.com/v14ayZn.png" group-title="ITALY",Class CNBC
 https://859c1818ed614cc5b0047439470927b0.msvdn.net/live/S76890577/tDoFkZD3T1Lw/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Classical Harmony" tvg-logo="https://i.imgur.com/JQaZblm.jpg" group-title="ITALY",Classical Harmony
 https://alchimie-classical-harmony-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Movies" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="ITALY",Comedy Movies
+#EXTINF:-1 tvg-id="" tvg-name="Commedia - Rakuten TV" tvg-logo="https://i.imgur.com/o1qKoje.jpg" group-title="ITALY",Commedia - Rakuten TV
 https://rakuten-comedymovies-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cusano TV" tvg-logo="https://i.imgur.com/3XdJEie.png" group-title="ITALY",Cusano TV
 https://stream9.xdevel.com/video0s975363-691/stream/playlist.m3u8
@@ -51,15 +55,15 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8
 https://media.streambrothers.com:1936/8038/8038/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Donna TV" tvg-logo="https://i.imgur.com/N6OtbVs.png" group-title="ITALY",Donna TV
 https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Drammatico" tvg-logo="" group-title="ITALY",Drammatico
+#EXTINF:-1 tvg-id="" tvg-name="Drammatico - Rakuten TV" tvg-logo="" group-title="ITALY",Drammatico - Rakuten TV
 https://rakuten-tvshows-6-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Duck TV" tvg-logo="https://i.imgur.com/Qw8x6Os.png" group-title="ITALY",Duck TV
+#EXTINF:-1 tvg-id="" tvg-name="duckTV" tvg-logo="https://i.imgur.com/Qw8x6Os.png" group-title="ITALY",duckTV
 https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="ITALY",Euronews
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="" group-title="ITALY",Fashion TV
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Family Movies" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="ITALY",Family Movies
+#EXTINF:-1 tvg-id="" tvg-name="Family - Rakuten TV" tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="ITALY",Family - Rakuten TV
 https://rakuten-family-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Focus" tvg-logo="https://i.imgur.com/bFVWJR1.png" group-title="ITALY",Focus
 https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(fu)/index.m3u8
@@ -73,7 +77,7 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 https://5db313b643fd8.streamlock.net:443/GiornaleRadioTelevision/GiornaleRadioTelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HGTV Italia" tvg-logo="https://i.imgur.com/9l2UAmK.jpg" group-title="ITALY",HGTV Italia
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Humanity" tvg-logo="https://i.imgur.com/DFjN26b.jpg" group-title="ITALY",Humanity
+#EXTINF:-1 tvg-id="" tvg-name="Humanity Documentari" tvg-logo="https://i.imgur.com/DFjN26b.jpg" group-title="ITALY",Humanity Documentari
 https://alchimie-humanity-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HSE24" tvg-logo="https://i.imgur.com/KPGsrcY.png" group-title="ITALY",HSE24
 https://5f11919dca3bd.streamlock.net/HSE24/HSE24/playlist.m3u8
@@ -93,13 +97,9 @@ https://58d921499d3d3.streamlock.net/KissKissTV/KissKissTV.stream/playlist.m3u8
 https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(ka)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mediaset Extra" tvg-logo="https://i.imgur.com/0T0BFRQ.png" group-title="ITALY",Mediaset Extra
 https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(kq)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Minerva Bizzarro Movies" tvg-logo="https://i.imgur.com/GQG22im.jpg" group-title="ITALY",Minerva Bizzarro Movies
-https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Minerva Cinema Segreto" tvg-logo="https://i.imgur.com/fuvc0QF.jpg" group-title="ITALY",Minerva Cinema Segreto
-https://minerva-cinemasegreto-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MMA TV" tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="ITALY",MMA TV
+#EXTINF:-1 tvg-id="" tvg-name="MMATV" tvg-logo="https://i.imgur.com/MYoNHMg.png" group-title="ITALY",MMATV
 https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Mondo Kids" tvg-logo="https://i.imgur.com/AeHlXnK.jpg" group-title="ITALY",Mondo Kids
+#EXTINF:-1 tvg-id="" tvg-name="MONDO TV KIDS" tvg-logo="https://i.imgur.com/AeHlXnK.jpg" group-title="ITALY",MONDO TV KIDS
 https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Moods" tvg-logo="https://i.imgur.com/zSdsBGc.jpg" group-title="ITALY",Moods
 https://alchimie-moods-2-it.samsung.wurl.com/manifest/playlist.m3u8
@@ -201,11 +201,11 @@ https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
 https://di-yx2saj20.vo.lswcdn.net/sportitalia/smil:sportitaliahd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SportOutdoor.TV" tvg-logo="" group-title="ITALY",SportOutdoor.TV
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Spotlight" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" group-title="ITALY",Spotlight
+#EXTINF:-1 tvg-id="" tvg-name="Spotlight - Rakuten TV" tvg-logo="https://i.imgur.com/TUDZvHw.jpg" group-title="ITALY",Spotlight - Rakuten TV
 https://rakuten-spotlight-6-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Super!" tvg-logo="https://i.imgur.com/lQDELfr.png" group-title="ITALY",Super!
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Supertoons TV" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="ITALY",Supertoons TV
+#EXTINF:-1 tvg-id="" tvg-name="SuperToons TV" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="ITALY",SuperToons TV
 https://kedoo-supertoonstv-4-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Teletubbies" tvg-logo="https://i.imgur.com/FlCXGip.jpg" group-title="ITALY",Teletubbies
 https://dhx-teletubbies-2-it.samsung.wurl.com/manifest/playlist.m3u8
