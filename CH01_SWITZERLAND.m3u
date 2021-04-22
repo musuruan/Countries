@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** SWITZERLAND - github.com/Free-IPTV" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/eqVr8td.jpg",*** SWITZERLAND - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="*** SWITZERLAND" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/eqVr8td.jpg",*** SWITZERLAND
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-name="Canal 9" tvg-id="Kanal9.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/nQVDOVb.png",Canal 9
 https://livesd2.vedge.infomaniak.com/livecast/livehd/master.m3u8
@@ -15,7 +15,7 @@ https://katapy.hs.llnwd.net/dieutvwza1/DIEUTVLIVE/smil:dieutv.smil/playlist.m3u8
 https://livesd2.vedge.infomaniak.com/livecast/livesd2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La Tele" tvg-logo="https://i.imgur.com/JiAnDPu.png" group-title="SWITZERLAND",La Tele
 https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leman Bleu - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/gzmkYlE.jpg" group-title="SWITZERLAND",Leman Bleu  - github.com/Free-IPTV
+#EXTINF:-1 tvg-id="" tvg-name="Leman Bleu" tvg-logo="https://i.imgur.com/gzmkYlE.jpg" group-title="SWITZERLAND",Leman Bleu
 https://edge2.vedge.infomaniak.com/livecast/ik:naxoo/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LFM TV" tvg-logo="https://i.imgur.com/UE1E3uH.png" group-title="SWITZERLAND",LFM TV
 https://edge4.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8?spark=cf45faac-ae15-4c71-92c5-6c3527ed8e0f&token=
@@ -25,15 +25,15 @@ https://streaming.meteonews.net/hls/stream.m3u8
 https://edge9.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="QS24" tvg-logo="https://i.imgur.com/sxrRSXb.jpg" group-title="SWITZERLAND",QS24
 https://58481b709ae2e.streamlock.net/tv2000plus-live/_definst_/mp4:quantisana/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio 3i (Webradio)" tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="SWITZERLAND",Radio 3i (Webradio)
+#EXTINF:-1 tvg-id="" tvg-name="Radio 3i" tvg-logo="https://i.imgur.com/lp23ChL.jpg" group-title="SWITZERLAND",Radio 3i
 https://livestream.gruppocdt.ch/hls/radio3i.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Argovia" tvg-logo="https://i.imgur.com/dANlbjX.png" group-title="SWITZERLAND",Radio Argovia
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_uv9hs4ww/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Pilatus (Webradio)" tvg-logo="https://i.imgur.com/lQzG2lg.png" group-title="SWITZERLAND",Radio Pilatus (Webradio)
+#EXTINF:-1 tvg-id="" tvg-name="Radio Pilatus" tvg-logo="https://i.imgur.com/lQzG2lg.png" group-title="SWITZERLAND",Radio Pilatus
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
-#EXTINF:-1 tvg-name="Rouge TV - github.com/Free-IPTV" tvg-id="RougeTV.ch" tvg-logo="https://i.imgur.com/PzF6q9I.png" group-title="SWITZERLAND",Rouge TV - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="Rouge TV" tvg-id="RougeTV.ch" tvg-logo="https://i.imgur.com/PzF6q9I.png" group-title="SWITZERLAND",Rouge TV
 https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTS Couleur 3 (Webradio)" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="SWITZERLAND",RTS Couleur 3 (Webradio)
+#EXTINF:-1 tvg-id="" tvg-name="RTS Couleur 3" tvg-logo="https://i.imgur.com/9fAlB8K.png" group-title="SWITZERLAND",RTS Couleur 3
 https://rtsc3video-lh.akamaihd.net/i/rtsc3video_ww@513975/master.m3u8
 #EXTINF:-1 tvg-name="Schweiz 5" tvg-id="SCHWEIZ5.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/AoWrARg.png",Schweiz 5
 https://stream.schweiz5.ch/schweiz52020/stream.m3u8
@@ -57,7 +57,7 @@ https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_se36
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-name="TVO (CH)" tvg-id="TVO.ch" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/gbX8z28.png",TVO (CH)
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-name="*** RK CH - github.com/Free-IPTV" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/7krfGOy.jpg",*** RK CH - github.com/Free-IPTV
+#EXTINF:-1 tvg-name="*** RK CH" group-title="SWITZERLAND" tvg-logo="https://i.imgur.com/7krfGOy.jpg",*** RK CH
 https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Action Movies - CH" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="SWITZERLAND",Action Movies - CH
 https://rakuten-actionmovies-4-ch.samsung.wurl.com/manifest/playlist.m3u8
