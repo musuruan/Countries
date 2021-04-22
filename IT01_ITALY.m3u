@@ -31,7 +31,7 @@ https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 http://ovp-live.akamaized.net/ac024_live/video1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/3lNJJ67.png" group-title="ITALY",Cartoonito
 https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CG Entertainment" tvg-logo="https://i.imgur.com/HB0LSjW.jpg" group-title="ITALY",CG Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="CG Entertainment" tvg-logo="" group-title="ITALY",CG Entertainment
 https://cgentertainment-cgtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cine 34" tvg-logo="https://i.imgur.com/cOpASOB.png" group-title="ITALY",Cine 34
 https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(b6)/index.m3u8
@@ -103,7 +103,7 @@ https://alchimie-mmatv-2-it.samsung.wurl.com/manifest/playlist.m3u8
 https://mondotv-mondotvkids-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Moods" tvg-logo="https://i.imgur.com/zSdsBGc.jpg" group-title="ITALY",Moods
 https://alchimie-moods-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Motor1TV" tvg-logo="https://i.imgur.com/muS5HF5.jpg" group-title="ITALY",Motor1TV
+#EXTINF:-1 tvg-id="" tvg-name="Motor1TV" tvg-logo="" group-title="ITALY",Motor1TV
 https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MotorTrend" tvg-logo="https://i.imgur.com/5ulOi6s.png" group-title="ITALY",MotorTrend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
