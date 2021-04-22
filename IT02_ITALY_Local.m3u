@@ -249,7 +249,7 @@ https://streamtechglobal.akamaized.net/hls/live/2024685/telefriuli/Group01/playl
 https://5db313b643fd8.streamlock.net/Telegenova/Telegenova/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telegranda" tvg-logo="https://i.imgur.com/l2Umbe2.jpg" group-title="ITALY LOCAL",Telegranda
 http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Teleliberta" tvg-logo="https://i.imgur.com/Yz30OZh.jpg" group-title="ITALY LOCAL",Teleliberta
+#EXTINF:-1 tvg-id="" tvg-name="Telelibertà" tvg-logo="https://i.imgur.com/Yz30OZh.jpg" group-title="ITALY LOCAL",Telelibertà
 http://api.new.livestream.com/accounts/17114188/events/4902226/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TeleMia Calabria" tvg-logo="https://i.imgur.com/VDiISqA.png" group-title="ITALY LOCAL",TeleMia Calabria
 http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
