@@ -49,8 +49,6 @@ http://canale10.cloud:1935/ch10live/high.stream/master.m3u8
 https://stream.mariatvcdn.com/canaleventuno/f5d2060b3682e0dfffd5b2f18e935ad3.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canale 21 Lazio" tvg-logo="https://i.imgur.com/mU6Cq89.png" group-title="ITALY LOCAL",Canale 21 Lazio
 https://stream.mariatvcdn.com/canaleventunodue/61d14e72c90980498c9d7cee64fde847.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Carina TV" tvg-logo="https://i.imgur.com/NZHYPIt.png" group-title="ITALY LOCAL",Carina TV
-http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Elive TV Brescia" tvg-logo="https://i.imgur.com/M6s0wGU.png" group-title="ITALY LOCAL",Elive TV Brescia
 https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Entella TV" tvg-logo="https://i.imgur.com/9A8kwio.png" group-title="ITALY LOCAL",Entella TV
