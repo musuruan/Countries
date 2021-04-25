@@ -181,9 +181,21 @@ https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rete 4" tvg-logo="https://i.imgur.com/JGo7SJP.png" group-title="ITALY",Rete 4
 https://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(r4)/index.m3u8
-#EXTINF:-1 tvg-name="RTL 102.5 BEST" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/E4G6PiA.png",RTL 102.5 BEST
+#EXTINF:-1 tvg-id="" tvg-name="RTL 102.5 Best" tvg-logo="https://i.imgur.com/E4G6PiA.png" group-title="ITALY",RTL 102.5 Best
 https://rtl-video4-stream.thron.com/live-video/video4/ngrp:video4/playlist.m3u8
-#EXTINF:-1 tvg-name="RTL 102.5 TV" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/2qEKxox.jpg",RTL 102.5 TV
+#EXTINF:-1 tvg-id="" tvg-name="RTL 102.5 Bro&Sis" tvg-logo="" group-title="ITALY",RTL 102.5 Bro&Sis
+https://rtl-video8-stream.thron.com/live-video/video8/ngrp:video8/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL 102.5 Doc" tvg-logo="" group-title="ITALY",RTL 102.5 Doc
+https://rtl-video6-stream.thron.com/live-video/video6/ngrp:video6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL 102.5 Guardia Costiera" tvg-logo="" group-title="ITALY",RTL 102.5 Guardia Costiera
+https://rtl-video11-stream.thron.com/live-video/video11/ngrp:video11/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL 102.5 Napulè" tvg-logo="" group-title="ITALY",RTL 102.5 Napulè
+https://rtl-video5-stream.thron.com/live-video/video5/ngrp:video5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL 102.5 News" tvg-logo="" group-title="ITALY",RTL 102.5 News
+https://rtl-video7-stream.thron.com/live-video/video7/ngrp:video7/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL 102.5 Romeo&Juliet" tvg-logo="" group-title="ITALY",RTL 102.5 Romeo&Juliet
+https://rtl-video9-stream.thron.com/live-video/video9/ngrp:video9/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTL 102.5 TV" tvg-logo="https://i.imgur.com/2qEKxox.jpg" group-title="ITALY",RTL 102.5 TV
 https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Senato TV" tvg-logo="https://i.imgur.com/u7wlwXg.png" group-title="ITALY",Senato TV
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8?video_id=13440&uuid=&channel_name=senato_webtv1&detected_delivery_method=hls
