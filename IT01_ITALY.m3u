@@ -75,8 +75,6 @@ https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Giornale Radio Tv" tvg-logo="" group-title="ITALY",Giornale Radio Tv
 https://5db313b643fd8.streamlock.net:443/GiornaleRadioTelevision/GiornaleRadioTelevision/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HGTV Italia" tvg-logo="https://i.imgur.com/9l2UAmK.jpg" group-title="ITALY",HGTV Italia
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_7@106896/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Humanity Documentari" tvg-logo="https://i.imgur.com/DFjN26b.jpg" group-title="ITALY",Humanity Documentari
 https://alchimie-humanity-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HSE24" tvg-logo="https://i.imgur.com/KPGsrcY.png" group-title="ITALY",HSE24
@@ -109,8 +107,6 @@ https://motorsportnetwork-motor1tv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="My Surf TV" tvg-logo="https://i.imgur.com/byD2nrE.png" group-title="ITALY",My Surf TV
 https://alchimie-mysurf-2-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nove IT" tvg-logo="https://i.imgur.com/ADGbwMY.png" group-title="ITALY",Nove IT
-https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Network Italia" tvg-logo="" group-title="ITALY",Paramount Network Italia
 https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="People are Awesome" tvg-logo="https://i.imgur.com/msHBlDz.png" group-title="ITALY",People are Awesome
